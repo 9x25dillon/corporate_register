@@ -1,0 +1,32 @@
+{
+  "name": "docket-server",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Docket: temporal legal-event engine, provenance ledger, broadcast compiler and audio feed.",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "start": "node dist/index.js",
+    "build": "tsc -p tsconfig.build.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "vitest run",
+    "migrate": "tsx src/store/migrate-cli.ts",
+    "ingest": "tsx src/cli/ingest.ts"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.2.5",
+    "fastify": "^5.6.1",
+    "pg": "^8.16.3",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@types/node": "^22.18.0",
+    "@types/pg": "^8.15.5",
+    "tsx": "^4.20.6",
+    "typescript": "~5.9.3",
+    "vitest": "^5.0.3"
+  }
+}

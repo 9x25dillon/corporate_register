@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>FTC Competition Press Releases</title>
+    <link>https://www.ftc.gov/news-events/news/press-releases</link>
+    <description>Competition press releases</description>
+    <item>
+      <title>[shouting] FTC Sues to Block Merger of Example Grocers and Sample Markets</title>
+      <link>https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-sues-block-merger-example-grocers-sample-markets</link>
+      <description>&lt;p&gt;The Federal Trade Commission filed an administrative complaint &amp;amp; will seek a preliminary injunction in federal court.&lt;/p&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 14:30:00 +0000</pubDate>
+      <guid isPermaLink="false">ftc-node-91234</guid>
+    </item>
+    <item>
+      <title>FTC Announces Annual Hart-Scott-Rodino Threshold Revisions</title>
+      <link>https://www.ftc.gov/news-events/news/press-releases/2026/09/hsr-thresholds</link>
+      <description>Revised thresholds take effect thirty days after publication in the Federal Register.</description>
+      <pubDate>Mon, 28 Sep 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ftc-node-91200</guid>
+    </item>
+  </channel>
+</rss>

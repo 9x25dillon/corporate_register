@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Antitrust Division Press Releases</title>
+  <id>urn:example:doj-atr</id>
+  <updated>2026-09-30T12:00:00Z</updated>
+  <entry>
+    <title>Two Executives Indicted for Bid Rigging on Public Contracts</title>
+    <link rel="alternate" href="https://www.justice.gov/opa/pr/two-executives-indicted-bid-rigging"/>
+    <id>urn:example:doj:entry:7781</id>
+    <published>2026-09-30T11:00:00Z</published>
+    <summary>A federal grand jury returned an indictment charging two executives.</summary>
+  </entry>
+</feed>
